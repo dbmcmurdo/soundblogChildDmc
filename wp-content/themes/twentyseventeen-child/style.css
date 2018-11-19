@@ -13,3 +13,28 @@ p {
     color: pink;
 }
 
+.site-branding {
+	display: none
+	}
+
+.metaslider .caption,
+.metaslider .cs-title,
+.metaslider .nivo-caption {
+  font-size: .5em;
+  } /* adjust as necessary */
+
+label {
+	color: #767676;
+  /* About page text colour */
+	font-weight: 400;
+	}
+
+input.wpcf7-form-control.wpcf7-submit:hover {
+	background-color: #333;
+	color: #FFF;
+	}	
+
+input.wpcf7-form-control.wpcf7-submit {
+	background-color: #767676;
+	color: #FFF;
+	}
