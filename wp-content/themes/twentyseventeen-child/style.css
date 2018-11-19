@@ -10,7 +10,8 @@ Version: 0.1.0
 
 /*test*/
 p {
-    color: pink;
+	color: blueviolet;
+	font-family: "PT Serif";
 }
 
 .site-branding {
@@ -38,3 +39,4 @@ input.wpcf7-form-control.wpcf7-submit {
 	background-color: #767676;
 	color: #FFF;
 	}
+
